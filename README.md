@@ -1,2 +1,2 @@
 # First-Steps_C
-# Programa básicos em C
+# Programas básicos em C
